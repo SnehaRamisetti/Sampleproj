@@ -3,7 +3,7 @@ public class LargestofThree {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num1 = 15;
+		int num1 = 14;
 		int num2 = 11;
 		int num3 = 20;
 		if(num1 > num2 && num1 > num3) {
